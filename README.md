@@ -56,6 +56,17 @@
 
 ---
 
+### 💼 Experiência
+
+**Estagiário de TI** — Voluta Medical *(11/2025 – atual)*
+Apoio no desenvolvimento de sistemas, manutenção de infraestrutura, monitoramento de redes e sistemas, além de manutenção preventiva e corretiva de hardware.
+
+**Operador de Produção 1** — Samsung *(12/2022 – 06/2025)*
+<img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
+Atuação na linha de montagem de eletrônicos.
+
+---
+
 ### 📫 Como me encontrar
 
 <p align="left">
