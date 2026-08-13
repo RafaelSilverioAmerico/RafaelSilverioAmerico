@@ -3,8 +3,9 @@
 <h3 align="center">Desenvolvedor Backend em formação | Java & Spring Boot</h3>
 
 <p align="center">
-  Estudando desenvolvimento Backend com foco em <b>Java</b>, <b>Spring Boot</b>, <b>Maven</b> e <b>APIs REST</b>.
-  Gosto de aprender construindo — cada projeto aqui é um passo a mais na jornada. 🚀
+  Sou Rafael Silverio Americo, estudante de desenvolvimento Backend com foco em <b>Java</b>, <b>Spring Boot</b>, <b>Maven</b> e <b>APIs REST</b>.
+  Aprendo construindo projetos práticos, do zero, para fixar conceitos de orientação a objetos, persistência de dados e arquitetura em camadas (model, repository, controller).
+  Também estou expandindo para o Frontend, aplicando <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b> nos meus projetos. Cada repositório aqui representa um passo dessa jornada. 🚀
 </p>
 
 ---
@@ -33,14 +34,14 @@
 
 ### 📌 Projetos em destaque
 
-- 🔨 **[Controle Financeiro](#)** — projeto em desenvolvimento com Spring Boot, CSS e JavaScript
-- ✅ **[To-Do List](#)** — API de lista de tarefas com Spring Boot
-- 🛒 **[Ecommerce-Java-Console](#)** — sistema de e-commerce via console
-- 🏦 **[Projeto-Banco](#)** — simulação de sistema bancário
-- 🏨 **[Hotel](#)** — sistema de gerenciamento de hotel
-- 📚 **[Biblioteca-Avançada](#)** — controle de acervo e empréstimos
-- 🚗 **[Estacionamento-Inteligente](#)** — controle de vagas e veículos
-- 🌦️ **[Sistema de Informações Climáticas em Tempo Real](#)** — consumo de dados climáticos
+- 🔨 **[Controle Financeiro](https://github.com/RafaelSilverioAmerico)** — projeto em desenvolvimento com Spring Boot no back-end, CSS e JavaScript no front-end, para gerenciar receitas, despesas e saldo do usuário
+- ✅ **[To-Do List](https://github.com/RafaelSilverioAmerico/To-Do-List)** — API REST de lista de tarefas construída com Spring Boot, seguindo a arquitetura model, repository e controller
+- 🛒 **[Ecommerce-Java-Console](https://github.com/RafaelSilverioAmerico/Ecommerce-Java-Console)** — sistema de e-commerce via console simulando cadastro de produtos, carrinho e pedidos
+- 🏦 **[Projeto-Banco](https://github.com/RafaelSilverioAmerico/Projeto-Banco)** — simulação de sistema bancário com operações de depósito, saque e consulta de saldo
+- 🏨 **[Hotel](https://github.com/RafaelSilverioAmerico/Hotel)** — sistema de gerenciamento de hotel com controle de reservas e hóspedes
+- 📚 **[Biblioteca-Avançada](https://github.com/RafaelSilverioAmerico/Biblioteca-Avan-ada)** — controle de acervo, empréstimos e devoluções de livros
+- 🚗 **[Estacionamento-Inteligente](https://github.com/RafaelSilverioAmerico/Estacionamento-Inteligente)** — controle de vagas, entrada e saída de veículos
+- 🌦️ **[Sistema de Informações Climáticas em Tempo Real](https://github.com/RafaelSilverioAmerico/Projeto-Java-Sistema-de-Informa-es-Clim-ticas-em-Tempo-Real)** — consumo de API externa para exibir dados climáticos atualizados
 
 > Confira todos os repositórios na aba **Repositories** deste perfil 👇
 
@@ -50,7 +51,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelSilverioAmerico&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRafaelSilverioAmerico&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSilverioAmerico&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -59,5 +60,4 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafael-silverio-americo-b19037364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
