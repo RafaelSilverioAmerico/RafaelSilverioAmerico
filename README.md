@@ -50,7 +50,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelSilverioAmerico&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/RafaelSilverioAmerico&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSilverioAmerico&layout=compact&theme=tokyonight" />
 </p>
 
